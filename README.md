@@ -1,6 +1,24 @@
-#自分が苦労した点
-いいね、コメント機能の実装に大変苦労しました！
-#学んだ点
-devise機能、uploaderでの写真投稿機能
-#自慢したい点
-お気に入りしてページを読み込むとハートの色が赤色になるところです！
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
